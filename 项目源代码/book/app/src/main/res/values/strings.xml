@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">book</string>
+
+    <string name="bottom_title_home">主页</string>
+    <string name="bottom_title_cart">购物车</string>
+    <string name="bottom_title_mine">我的</string>
+</resources>
